@@ -2,9 +2,11 @@
 An intelligent low-power embedded system to avoid friendly fire incidents using RF & IR-based communication for enhanced battlefield coordination and safety.
 
 🧠 Overview
+
 Friendly fire (Fratricide) remains a serious concern in modern military operations. This project provides an embedded solution leveraging RF communication and IR sensors to identify allies and prevent unintended attacks on friendly forces.
 
 🔍 Key Features
+
 📡 Real-time RF Communication (nRF24L01)
 
 👁‍🗨 IR-Based Line-of-Sight Detection
